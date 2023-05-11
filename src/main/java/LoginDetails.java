@@ -1,6 +1,6 @@
 public final class LoginDetails {
 
-    public static final String URL = "jdbc:mysql://127.0.0.1:3306/practice_db";
-    public static final String USER = "root";
-    public static final String PASSWORD = "Alberta123!";
+    public static final String URL = "Your DB URL here";
+    public static final String USER = "Your Username Here";
+    public static final String PASSWORD = "Your Password Here";
 }
